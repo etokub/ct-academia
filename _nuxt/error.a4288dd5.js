@@ -1,0 +1,1 @@
+import{_ as t}from"./nuxt-link.f9427697.js";import{a as r,b as _,e,j as n,w as s,o as c,k as a}from"./entry.5a1155bc.js";const l={},d={class:"error-page"},i=e("h1",null,"error 404",-1);function u(m,p){const o=t;return c(),_("section",d,[e("div",null,[i,n(o,{to:"/"},{default:s(()=>[a("Back to home")]),_:1})])])}const h=r(l,[["render",u]]);export{h as default};
